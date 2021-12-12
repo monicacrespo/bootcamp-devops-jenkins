@@ -7,8 +7,9 @@ Browse the Open Blue Ocean UI http://localhost:8080
 3. Build Now 
 4. Check. Open console from running build
 5. Parallel stages complete in any order
-<img src="/blob/main/demo1/1.3/ParallelStages.jpg"/>
-<img src="/blob/main/demo1/1.3/ParallelStagesWindows.jpg"/>
+![Parallel Stages](https://github.com/monicacrespo/bootcamp-devops-jenkins/blob/master/demo1/1.3/ParallelStages.jpg)
+![Parallel Windows Stage](https://github.com/monicacrespo/bootcamp-devops-jenkins/blob/master/demo1/1.3/ParallelStagesWindows.jpg)
+
 6. Then pause on input and then post. https://www.jenkins.io/doc/book/pipeline/syntax/#post
 
 ```
