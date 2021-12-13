@@ -1,4 +1,4 @@
-Parallel stages
+# Parallel stages
 
 Browse the Open Blue Ocean UI http://localhost:8080
 
