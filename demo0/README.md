@@ -1,4 +1,4 @@
-Create a pipeline from GitHub
+###Create a pipeline from GitHub
 
 Browse the classic UI http://localhost:8080
 
@@ -9,6 +9,7 @@ Browse the classic UI http://localhost:8080
 5. Path to Jenkinsfile demo0/Jenkinsfile
 6. Build Now
 7. Check
+
 ```
 [Pipeline] }
 [Pipeline] // stage
@@ -37,3 +38,5 @@ Inside the script, demo 1.3
 [Pipeline] End of Pipeline
 Finished: SUCCESS
 ```
+
+![Console Output](https://github.com/monicacrespo/bootcamp-devops-jenkins/blob/main/demo0/ConsoleOutput.JPG)
