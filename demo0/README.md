@@ -19,7 +19,10 @@ Browse the classic UI http://localhost:8080
 [Pipeline] {
 [Pipeline] stage
 [Pipeline] { (stage-1)
-[Pipeline] echo
+[Pipeline] dir
+Running in /var/jenkins_home/workspace/demo1-3/demo0
+[Pipeline] {
+[Pipeline] echo 
 This is build number 3 of 1.3
 [Pipeline] sh
 + echo 'Using a multi-line shell step'
