@@ -5,7 +5,7 @@ This repository is the result of running the exercises detailed in [01-jenkins](
 Running Jenkins in Docker
 For all the exercises I am running a Jenkins instance as a Docker container and persisting my Jenkins server state using Docker Volumes. I use the dockerized version: https://hub.docker.com/r/jenkins/jenkins/
 
-My local machine is a host for Jenkins container. When Jenkins needs to run tasks, it builds a docker container and runs specific commands on it. This is why is called Docker in Docker. More info here https://www.jenkins.io/doc/book/installing/docker/
+My local machine is a host for Jenkins container. When Jenkins needs to run tasks, it builds a docker container and runs specific commands on it. This is why is called Docker in Docker. More info here https://www.jenkins.io/doc/book/installing/docker/ and https://www.jenkins.io/doc/tutorials/create-a-pipeline-in-blue-ocean/
 
 Exercises's Order
  
