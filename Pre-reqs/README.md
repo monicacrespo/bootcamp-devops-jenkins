@@ -8,8 +8,12 @@ Steps in the following order using Git Bash if your system is Windows 64:
     `./start_jenkins.sh lemoncode/jenkins jenkins jenkins-docker-certs jenkins-data`
     
     ```
-    7f1f92392f6464fe71580157c6a72b33af580600759d680a1a66199c21e95702
-    69727b55ddfd6c8eb416736e989692470ebe101480412eff02cd0f566767f2f1
+    jenkins-docker-certs
+    jenkins certs jenkins-docker-certs
+    jenkins-data
+    jenkins data jenkins-data
+    8644dee76c932552c322dd6abd140779bf9856e840dca155cd44a85b7dec9603
+    e833e554614cbda3a45f117547f8beb908e139d1f061a7c5159550e0ef330a9a
     ```
     
     After this command finishes, run docker ps  to see a list of containers installed.

@@ -19,6 +19,7 @@ Exercises's Order
     * demo1
         * 1.1 Getting Project Version from Node / package.json in Jenkins
         * 1.2 When Conditional step/stage in Jenkins pipeline
+	* 1.3 Refactoring by creating functions to be reused
     * solution
 
 How to validate a Jenkinsfile?
